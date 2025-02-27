@@ -9,7 +9,7 @@ headers = {
 
 
 def get_url():
-    for count in range(0, 570): # проходимся по разным страничкам
+    for count in range(137, 570): # проходимся по разным страничкам
         print(f'Страница {count}')
         url = f'https://we.lordfilm15.ru/filmy/page/{count}/' # задаём url с переменной, указывающей на страницу
         response = requests.get(url, headers=headers) # запрашиваем данные со страницы с определёнными данными нашего компьютера

@@ -47,5 +47,7 @@ Hugging Face Sentence Transformers : Для генерации семантич�
 
 # Авторы 
 Сергей Чучалин: https://github.com/rstflght
+
 Мария Румянцева: https://github.com/evcranberry
+
 Владислав Мороз: https://github.com/VladLegenda

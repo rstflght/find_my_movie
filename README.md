@@ -12,19 +12,6 @@
 Streamlit : Для создания веб-интерфейса.
 Hugging Face Sentence Transformers : Для генерации семантических эмбеддингов текстов.
 
-/project/
-│
-├── data/                       # Директория с данными
-│   ├── movies_dataset.csv      # CSV-файл с описаниями фильмов
-│   └── movie_embeddings.json   # JSON-файл с сохранёнными эмбеддингами
-│
-├── notebooks/                  # Директория с Jupyter Notebook
-│   └── demo.ipynb              # Демонстрационный пример работы сервиса
-│
-├── app.py                      # Streamlit-скрипт для запуска сервиса
-├── parser.py                   # Скрипт для парсинга данных о фильмах
-├── requirements.txt            # Файл с зависимостями
-└── README.md                   # Данный файл
 
 
 # Запуск проекта
